@@ -1,0 +1,29 @@
+
+ body {
+  background: url('https://image.freepik.com/free-photo/american-money-dollar-with-calculator-white-background-with-copy-space_1428-418.jpg');
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  text-align: center;
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 20px;
+    
+ }
+
+ #calculate-change {
+    font-size: 20px;
+    margin-top: 20px;
+    background-color : #13db8e;
+    color: black;
+ }
+
+ #calculate-change:hover {
+     color : white;
+
+ }
+
+.inputs {
+    text-decoration-style: wavy;
+    font-size: large;
+}
